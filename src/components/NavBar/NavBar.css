@@ -1,0 +1,17 @@
+.navbarz{
+
+    width: 100%;
+    --border-style: solid;
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+
+}
+li{
+    padding-left: 60px;
+}
